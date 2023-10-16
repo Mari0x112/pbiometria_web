@@ -1,4 +1,6 @@
 # pbiometria_web
+### Descripción:
+Reposotorio para el código PHP, HTML y CSS de la web y API del proyecto.
 ### Instrucciones de uso:
 - **1.** Descargar y extrar el .zip del repositorio.
 - **2.** Descargar e instalar [XAMPP](https://www.apachefriends.org/es/index.html).
