@@ -46,6 +46,8 @@ cerrarSesionButton.addEventListener('click', async () => {
 // ---------------------------------------------------------------------------------------
 // --------------------------- CARGAR ULTIMA MEDICION ------------------------------------
 // ---------------------------------------------------------------------------------------
+//              Carga la última medición de un sensor a partir de su ID
+// ---------------------------------------------------------------------------------------
 async function cargarUltimaMedicion(){
     ultimaMedicion = await medicionesClass.getMedicionSensor(3);
     console.log(ultimaMedicion);
