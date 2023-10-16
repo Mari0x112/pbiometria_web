@@ -11,3 +11,5 @@ Finalizados los pasos anteriores ya podemos acceder a "http://localhost/pbiometr
 - Usuario: test
 - Contraseña: 1234
 
+#### Recuerde, el orden a seguir para implementar el proyecto es:
+- [Arduino](https://github.com/Mari0x112/pbiometria_arduino) --> [Web](https://github.com/Mari0x112/pbiometria_web) --> [Android](https://github.com/Mari0x112/pbiometria_android)
